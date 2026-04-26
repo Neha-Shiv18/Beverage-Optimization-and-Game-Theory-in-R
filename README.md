@@ -14,7 +14,7 @@ The objective of this question was to formulate and solve a linear programming m
 The goal of this question was to maximize the total profit, while satisfying the demand and proportion constraint of the materials. The three different seasonal products were (spring, autum and winter), using materials such as cotton, silk and wool.
 
 
-##### Question 3. Game theory optimization probelm for a chip game
+##### Question 3. Game theory optimization problem for a chip game
 The goal of this question was to model a two-player sequential game using game theory, formulate it as a payoff matrix and linear programming framework, and determine optimal strategies and expected payoffs for both players. It further involved analyzing the uniqueness of equilibrium strategies and interpreting the resulting solutions.
 
 
